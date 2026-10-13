@@ -1,0 +1,24 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Stella's Dev Notes"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Engineering notes on building reliable systems: design decisions, debugging stories, and lessons learned across AI agents, RAG pipelines, and mobile apps."
+  copyright = "© 2026 Stella Ji"
+
+[params.author]
+  name = "Stella Ji"
+  image = "img/avatar.jpg"
+  headline = "Software Engineer · AI Developer"
+  bio = "Building reliable systems, one hard problem at a time."
+  links = [
+    { github = "https://github.com/sagitdev" },
+    # { linkedin = "https://linkedin.com/in/" },
+    { email = "azcawa2026@gmail.com" },
+  ]
