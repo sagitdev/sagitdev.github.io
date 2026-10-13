@@ -15,7 +15,7 @@ title = "Stella's Dev Notes"
 [params.author]
   name = "Stella J."
   image = "img/avatar.jpg"
-  headline = "Software Engineer · AI Developer"
+  headline = "Software Engineer · AI Agents & RAG"
   bio = "Building reliable systems, one hard problem at a time."
   links = [
     { github = "https://github.com/sagitdev" },
