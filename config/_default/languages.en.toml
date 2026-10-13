@@ -10,10 +10,10 @@ title = "Stella's Dev Notes"
   rtl = false
   dateFormat = "2 January 2006"
   description = "Engineering notes on building reliable systems: design decisions, debugging stories, and lessons learned across AI agents, RAG pipelines, and mobile apps."
-  copyright = "© 2026 Stella Ji"
+  copyright = "© 2026 Stella J."
 
 [params.author]
-  name = "Stella Ji"
+  name = "Stella J."
   image = "img/avatar.jpg"
   headline = "Software Engineer · AI Developer"
   bio = "Building reliable systems, one hard problem at a time."
